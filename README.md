@@ -2,7 +2,7 @@
 
 MSC individual Project : dynamic network segmentation for cyberdefence
 
-The objective of this thesis is to propose a framework that gives the best network architecture in terms of performance and security while respecting certain conditions.
+The objective of this thesis is to propose a simulation and optimization framework that gives the best network architecture in terms of performance and security while respecting certain conditions. (see current Msc Thesis report - Objectives section)
 
 Achieved tasks : 
 
