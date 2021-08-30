@@ -1,4 +1,4 @@
-# MSC_Individual_Project
+# MSC Individual Project
 
 MSC individual Project : dynamic network segmentation for cyberdefence
 
